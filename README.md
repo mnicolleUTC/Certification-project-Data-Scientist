@@ -1,14 +1,10 @@
-# Datacamp case study
-This is my project to obtain my certification as a data scientist from Datacamp
+# Data Scientist certification project
+This is my project to obtain certification as a data scientist professional.
 
-## Structure
-1. Project motivation
-2. Dataset description
-3. Analysis plan
-4. Performance metrics
-5. Exploratory data analysis
-7. Model development
-
-I used CatBoost for model development because it provides a myriad of APIs to work with like 
-treatment of categorical features and feature importance.
+## Project description
+In short, during this project I develop several Regression model in order to predict price of rented house in San Franscisco.<br>
+All technical results are available in Jupyter Notebook "notebook.ipynb"
+Part of my technical skill in manipulating, analysing data and developing model are shown in this notebook.
+Subject of certification exam is available in "Subject Practical Exam.pdf"
+Result presentation to non-technical audience is available in "slide.pdf"
 
