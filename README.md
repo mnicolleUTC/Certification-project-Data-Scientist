@@ -8,3 +8,4 @@ Part of my technical skill in manipulating, analysing data and developing model 
 Subject of certification exam is available in "Subject Practical Exam.pdf"
 Result presentation to non-technical audience is available in "slide.pdf"
 
+![Screenshot](Figures/figure_1.png)
